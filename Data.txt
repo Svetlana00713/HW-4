@@ -1,0 +1,11 @@
+Ivanov Ivan Ivanovich 67 m
+Rybkin Sergey Nikolaevich 28 m
+Petrova Anna Vitalyevna 17 f
+Sergeeva Irina Alekseevna 33 f
+Mishkin Egor Ilych 19 m
+Sidorov Sidor Sidorovich 34 m
+Semenova Elena Petrovna 56 f
+Holodova Elizaveta Romanovna 23 f
+Tixonov Tixon Tixonovich 47 m
+Lukina Inna Lvovna 72 f
+q
